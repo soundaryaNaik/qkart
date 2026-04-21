@@ -1,0 +1,6 @@
+node_modules
+.env
+*.pdf
+*.mp4
+*.zip
+.DS_Store
